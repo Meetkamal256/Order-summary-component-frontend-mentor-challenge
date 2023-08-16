@@ -18,6 +18,9 @@ CSS custom properties
 Flexbox
 Mobile-first workflow
 
+-Solution URL: https://order-summary-component-frontend-mentor-challenge-ten.vercel.app/
+
+
 ### What I learned
 
 The project was fun to build and did not require a lot of experience. I improved my flexbox skills a bit more but definitely still a lot to learn about it. 
