@@ -15,7 +15,7 @@ Your users should be able to:
 
 Semantic HTML5 markup
 CSS custom properties
-Flexbox
+Flex box
 Mobile-first workflow
 
 -Solution URL: https://order-summary-component-frontend-mentor-challenge-ten.vercel.app/
@@ -23,7 +23,7 @@ Mobile-first workflow
 
 ### What I learned
 
-The project was fun to build and did not require a lot of experience. I improved my flexbox skills a bit more but definitely still a lot to learn about it. 
+The project was fun to build and did not require a lot of experience. I improved my flex box skills a bit more but definitely still a lot to learn about it. 
 
 ### Acknowledgments
 

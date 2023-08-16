@@ -76,7 +76,7 @@ body{
 }
 
 .plan-box a{
-    color: hsl(223, 47%, 23%)
+    color: hsl(223, 47%, 23%);
     font-weight: 900;
 }
 
@@ -132,11 +132,11 @@ a.btn-cancel:hover{
     .plan-box-left div{
         margin-left: 10px;
     }
-
+    
     .btn-proceed, a.btn-cancel, .plan-box a{
         font-size: 13px;
     }
-
+    
     .text-content{
         padding: 9% 7%;
     }
